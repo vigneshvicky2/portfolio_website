@@ -1,0 +1,42 @@
+export const projectsData = [
+    {
+        id: 1,
+        name: 'Blockchain-Based License Protection',
+        description: "Developed a secure, decentralized system using smart contracts on the Ethereum platform. This project automated software license validation and effectively reduced piracy risks by 40%. Utilized Solidity to create self-executing contracts on the blockchain.",
+        tools: ["Ethereum Blockchain Network", "Solidity", "Smart Contracts", "Ganache", "Truffle"],
+        role: 'Software Developer',
+        link: 'https://github.com/vigneshvicky2/LicenseChain-Blockchain-Based-Lincense-Protection',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 2,
+        name: 'Car Rental Web App (RentWheelz)',
+        description: "Optimized SQL queries and implemented caching mechanisms, leading to a 30% reduction in query response time. Utilized Bubble.io for rapid prototyping, resulting in a more user-friendly and efficient UI.",
+        tools: ["Spring Boot", "H2 Database", "Java Mail", "JWT Tokens", "Bubble.io", "Postman"],
+        role: 'Full Stack Developer',
+        link:'https://github.com/vigneshvicky2/Car_Rental_website_-RentWheelz-',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 3,
+        name: 'SMS Automator for Mark Statement',
+        description: "Developed an efficient SMS automation tool to send student mark statements, streamlining communication between educational institutions and students. Simplified the process and improved accuracy.",
+        tools: ["Python", "Tkinter", "Selenium", "Flask", "Twilio", "SQLite"],
+        role: 'Software Developer',
+        link:'https://github.com/vigneshvicky2/VSB-Mark-Statement-sms-Automator',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 4,
+        name: 'DeepFake Videos & Images Detector for Social Media',
+        description: "Led a team to create a DeepFake detection system using Convolutional Neural Networks (CNN). Trained the model on real and fake images/videos for classification. Developed a Facebook clone to integrate the detection tool.",
+        tools: ['Python', "TensorFlow", "Keras", "OpenCV", "Scikit-learn", "Matplotlib", "Jupyter Notebook"],
+        role: 'Model Trainer',
+        link: 'https://github.com/vigneshvicky2/Deepfake_Detection_with_Frontend_And_Backend',
+        code: '',
+        demo: '',
+    }
+];
