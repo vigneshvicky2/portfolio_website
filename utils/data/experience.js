@@ -9,13 +9,13 @@ export const experiences = [
     id: 2,
     title: "FullStack Developer",
     company: "Verve Bridge",
-    duration: "(July 2024 - AUG 2024)"
+    duration: "(JUL 2024 - AUG 2024)"
   },
   {
     id: 3,
     title: "AI & Cloud Developer",
     company: "Edunet Foundation",
-    duration: "(JULY 2024 - SEP 2024)"
+    duration: "(JUL 2024 - SEP 2024)"
   },
   {
     id: 4,
