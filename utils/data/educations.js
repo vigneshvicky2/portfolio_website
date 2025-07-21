@@ -4,14 +4,14 @@ export const educations = [
     title: "Bachelor Degree",
     duration: "2022 - Present",
     institution: "VSB Engineering College",
-    cgpa: "CGPA: 8.72"
+    cgpa: "CGPA: 8.7"
   },
   {
     id: 2,
     title: "Higher Secondary Certificate",
     duration: "2021 - 2022",
     institution: "Vivekananda Matriculation Higher Secondary School",
-    cgpa: "Percentage: 79%"
+    cgpa: "Percentage: 78%"
   },
   {
     id: 3,
